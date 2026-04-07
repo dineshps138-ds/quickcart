@@ -4,7 +4,7 @@ export const products = [
     name: "Wireless Bluetooth Headphones",
     description: "High-quality wireless headphones with noise cancellation",
     price: 99.99,
-    image: "/images/products/headphones.jpg",
+    image: "https://picsum.photos/300/200?random=1",
     category: "Electronics"
   },
   {
@@ -12,7 +12,7 @@ export const products = [
     name: "Smart Watch",
     description: "Fitness tracking smartwatch with heart rate monitor",
     price: 199.99,
-    image: "/images/products/smartwatch.jpg",
+    image: "https://picsum.photos/300/200?random=2",
     category: "Electronics"
   },
   {
@@ -20,7 +20,7 @@ export const products = [
     name: "Coffee Maker",
     description: "Programmable coffee maker with thermal carafe",
     price: 79.99,
-    image: "/images/products/coffeemaker.jpg",
+    image: "https://picsum.photos/300/200?random=3",
     category: "Appliances"
   },
   {
@@ -28,7 +28,7 @@ export const products = [
     name: "Yoga Mat",
     description: "Non-slip yoga mat for all fitness levels",
     price: 29.99,
-    image: "/images/products/yogamat.jpg",
+    image: "https://picsum.photos/300/200?random=4",
     category: "Sports"
   },
   {
@@ -36,7 +36,7 @@ export const products = [
     name: "Notebook",
     description: "Leather-bound notebook for journaling and notes",
     price: 24.99,
-    image: "/images/products/notebook.jpg",
+    image: "https://picsum.photos/300/200?random=5",
     category: "Stationery"
   },
   {
@@ -44,7 +44,7 @@ export const products = [
     name: "Desk Lamp",
     description: "LED desk lamp with adjustable brightness",
     price: 49.99,
-    image: "/images/products/desklamp.jpg",
+    image: "https://picsum.photos/300/200?random=6",
     category: "Furniture"
   }
 ];
